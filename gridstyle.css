@@ -25,3 +25,27 @@ width: 1000px;
 margin: 0 auto;
 overflow: auto;
 }
+#bwrap {
+    margin: 0 auto;
+    width:400px; 
+    padding:25px;
+}
+input[type="text"] {
+    width: 50px;
+    margin-left: 100px;
+}
+p {
+    margin: 0 auto;
+    width: 200px;
+    text-align:center;
+    font-family:ariel;
+    font-size:x-small;
+    padding:15px;
+    margin-bottom:-25px;
+    display:inline-block;
+}
+#pmover{
+    margin:0 auto;
+    width:775px;
+    display:inline-block;
+}
